@@ -1,0 +1,7 @@
+C:\Users\forla\source\repos\C#_Test\C#_Test\bin\Debug\C#_Test.exe.config
+C:\Users\forla\source\repos\C#_Test\C#_Test\bin\Debug\C#_Test.exe
+C:\Users\forla\source\repos\C#_Test\C#_Test\bin\Debug\C#_Test.pdb
+C:\Users\forla\source\repos\C#_Test\C#_Test\obj\Debug\C#_Test.csproj.AssemblyReference.cache
+C:\Users\forla\source\repos\C#_Test\C#_Test\obj\Debug\C#_Test.csproj.CoreCompileInputs.cache
+C:\Users\forla\source\repos\C#_Test\C#_Test\obj\Debug\C#_Test.exe
+C:\Users\forla\source\repos\C#_Test\C#_Test\obj\Debug\C#_Test.pdb
